@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github_src\CircleChangeView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_6522d22f6f1934f977d2f1b63f724cb1d0c5d837.jar" />
+    </item>
+    <item
+        jar="D:\github_src\CircleChangeView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_4baae9b29f5a4db2fb3dc11534aa47cff9ac5c41.jar" />
+    </item>
+    <item
+        jar="D:\github_src\CircleChangeView-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_eb5075b374d849942094f82aeb690b5741b2140c.jar" />
+    </item>
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_47652cf3a01367c6856a258dde8f7d21d874ee77.jar" />
+    </item>
+    <item
+        jar="D:\github_src\CircleChangeView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_58453ba2e9106895b01760e49a957b00ca8c4fdd.jar" />
+    </item>
+    <item
+        jar="D:\github_src\CircleChangeView-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\github_src\CircleChangeView-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_df5d4da35153bb4170b227d7b8789a6e40e212d5.jar" />
+    </item>
+
+</items>

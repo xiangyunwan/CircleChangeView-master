@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CircleChangedView</string>
+
+    <declare-styleable name="CircleChangeView">
+        <attr name="timeDelta" format="integer"/>
+
+    </declare-styleable>
+</resources>
